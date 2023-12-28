@@ -1,6 +1,4 @@
-<p align="center">
-  
-</p>
+
 
 # Welcome to "The Developer" Series 🍿
 
