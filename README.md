@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-profile-image-url.com" alt="Jayant Singh - The Developer">
+  
 </p>
 
 # Welcome to "The Developer" Series 🍿
