@@ -35,7 +35,7 @@
 
 ## Viewer Stats 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeebyte&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
